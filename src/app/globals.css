@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "InterBlack";
+  src: url("../../public/Fonts/Inter-Black.ttf");
+}
+@font-face {
+  font-family: "InterBold";
+  src: url("../../public/Fonts/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: "InterExtraBold";
+  src: url("../../public/Fonts/Inter-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "InterExtraLight";
+  src: url("../../public/Fonts/Inter-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "InterLight";
+  src: url("../../public/Fonts/Inter-Light.ttf");
+}
+@font-face {
+  font-family: "InterMedium";
+  src: url("../../public/Fonts/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: "InterRegular";
+  src: url("../../public/Fonts/Inter-Regular.ttf");
+}
+@font-face {
+  font-family: "InterSemiBold";
+  src: url("../../public/Fonts/Inter-SemiBold.ttf");
+}
+@font-face {
+  font-family: "InterThin";
+  src: url("../../public/Fonts/Inter-Thin.ttf");
+}
+@font-face {
+  font-family: "ZodiakBlack";
+  src: url("../../public/Fonts/Zodiak-Black.otf");
+}
+@font-face {
+  font-family: "ZodiakBold";
+  src: url("../../public/Fonts/Zodiak-Bold.otf");
+}
+@font-face {
+  font-family: "ZodiakBlack";
+  src: url("../../public/Fonts/Zodiak-Black.otf");
+}
+@font-face {
+  font-family: "ZodiakLight";
+  src: url("../../public/Fonts/Zodiak-Light.otf");
+}
+@font-face {
+  font-family: "ZodiakRegular";
+  src: url("../../public/Fonts/Zodiak-Regular.otf");
+}
+@font-face {
+  font-family: "ZodiakThin";
+  src: url("../../public/Fonts/Zodiak-Thin.otf");
+}
